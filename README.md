@@ -1,0 +1,1 @@
+Gestore di un alimentatore da banco
